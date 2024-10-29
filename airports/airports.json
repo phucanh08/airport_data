@@ -1,5 +1,6 @@
 [
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVPB",
       "iata_code": "HUI",
       "name": "Cảng HKQT Phú Bài",
@@ -10,6 +11,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HUI.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVNB",
       "iata_code": "HAN",
       "name": "Cảng HKQT Nội Bài",
@@ -20,6 +22,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HAN.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVDN",
       "iata_code": "DAD",
       "name": "Cảng HKQT Đà Nẵng",
@@ -30,6 +33,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DAD.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVTS",
       "iata_code": "SGN",
       "name": "Cảng HKQT Tân Sơn Nhất",
@@ -41,6 +45,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/SGN.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVDL",
       "iata_code": "DLI",
       "name": "Cảng HK Liên Khương",
@@ -52,6 +57,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DLI.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVBM",
       "iata_code": "BMV",
       "name": "Cảng HK Buôn Ma Thuột",
@@ -62,6 +68,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/BMV.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVPC",
       "iata_code": "UIH",
       "name": "Cảng HK Phù Cát",
@@ -72,6 +79,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/UIH.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVRG",
       "iata_code": "VKG",
       "name": "Cảng HK Rạch Giá",
@@ -82,6 +90,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VKG.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVCM",
       "iata_code": "CAH",
       "name": "Cảng HK Cà Mau",
@@ -92,6 +101,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/CAH.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVCS",
       "iata_code": "VCS",
       "name": "Cảng HK Côn Đảo",
@@ -102,6 +112,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCS.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVCR",
       "iata_code": "CXR",
       "name": "Cảng HKQT Cam Ranh",
@@ -112,6 +123,7 @@
       "imageUrl": ""
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVPQ",
       "iata_code": "PQC",
       "name": "Cảng HKQT Phú Quốc",
@@ -122,6 +134,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/PQC.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVCI",
       "iata_code": "HPH",
       "name": "Cảng HKQT Cát Bi",
@@ -132,6 +145,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HPH.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVVH",
       "iata_code": "VII",
       "name": "Cảng HKQT Vinh",
@@ -142,6 +156,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VII.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVCT",
       "iata_code": "VCA",
       "name": "Cảng HKQT Cần Thơ",
@@ -153,6 +168,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCA.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVDB",
       "iata_code": "DIN",
       "name": "Cảng HKQT Điện Biên",
@@ -163,6 +179,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DIN.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVTX",
       "iata_code": "THD",
       "name": "Cảng HK Thọ Xuân",
@@ -173,6 +190,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/THD.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVDH",
       "iata_code": "VDH",
       "name": "Cảng HK Đồng Hới",
@@ -183,6 +201,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VDH.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVTH",
       "iata_code": "TBB",
       "name": "Cảng HK Tuy Hòa",
@@ -193,6 +212,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/TBB.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVCA",
       "iata_code": "VCL",
       "name": "Cảng HK Chu Lai",
@@ -203,6 +223,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCL.webp"
     },
     {
+      "function_code": "prc_airport_insert",
       "icao_code": "VVPK",
       "iata_code": "PXU",
       "name": "Cảng HK Pleiku",
