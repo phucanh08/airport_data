@@ -1,7 +1,7 @@
 [
     {
-      "iata_code": "VVPB",
-      "icao_code": "HUI",
+      "icao_code": "VVPB",
+      "iata_code": "HUI",
       "name": "Cảng HKQT Phú Bài",
       "description":
           "Sân bay Phú Bài được xây dựng trong thời kỳ thực dân Pháp đô hộ nước ta (năm 1940), có đường băng bằng đất nện kích thước 1280m x 40m. Sau đó được người Mỹ nâng cấp, cải tạo thành đường băng bê tông nhựa kích thước 1800m x 40m.",
@@ -10,8 +10,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HUI.webp"
     },
     {
-      "iata_code": "VVNB",
-      "icao_code": "HAN",
+      "icao_code": "VVNB",
+      "iata_code": "HAN",
       "name": "Cảng HKQT Nội Bài",
       "description":
           "Cảng hàng không quốc tế Nội Bài được thành lập ngày 28/2/1977 theo Quyết định số 239/QĐ -TC, ngày 28 tháng 2 năm 1977 của Tổng cục Hàng không dân dụng Việt Nam, nhằm đáp ứng nhu cầu vận tải trong nước và quốc tế, phục vụ cho công tác tái thiết đất nước sau chiến tranh và thực hiện hai nhiệm vụ chiến lược là xây dựng chủ nghĩa xã hội và bảo vệ tổ quốc xã hội chủ nghĩa.",
@@ -20,8 +20,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HAN.webp"
     },
     {
-      "iata_code": "VVDN",
-      "icao_code": "DAD",
+      "icao_code": "VVDN",
+      "iata_code": "DAD",
       "name": "Cảng HKQT Đà Nẵng",
       "description":
           "Sân bay Quốc tế Đà Nẵng là cảng hàng không lớn nhất khu vực miền Trung - Tây Nguyên và lớn thứ ba của Việt Nam, nằm ở quận Hải Châu, cách trung tâm thành phố Đà Nẵng 3 km, với tổng diện tích khu vực sân bay là 842 ha, trong đó diện tích khu vực hàng không dân dụng là 150 ha. Đây là điểm bay quan trọng của miền Trung Việt Nam và nước ta",
@@ -30,8 +30,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DAD.webp"
     },
     {
-      "iata_code": "VVTS",
-      "icao_code": "SGN",
+      "icao_code": "VVTS",
+      "iata_code": "SGN",
       "name": "Cảng HKQT Tân Sơn Nhất",
       "description":
           "Sân bay Tân Sơn Nhất ở thời điểm chế độ cũ rời đi vào năm 1975. Sau khi chế độ cũ rời đi, sân bay Tân Sơn Nhất được chia thành hai khu vực quân sự và dân sự rõ rệt, tuy nhiên các cơ sở kỹ thuật mặt đất, cơ sở thương mại và dịch vụ hành khách vẫn được giữ nguyên và sửa chữa để đưa vào hoạt động bình thường. Việc tập trung tiếp quản Nha kỹ thuật thuộc “Hãng hàng không Việt Nam” và “Sở khai thác không vận” thuộc Nha hàng không dân sự, khôi phục hệ thống thông tin chỉ huy, sửa chữa và ổn định lại nhà ga dân dụng là điểm nhấn của sân bay Tân Sơn Nhất",
@@ -41,8 +41,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/SGN.webp"
     },
     {
-      "iata_code": "VVDL",
-      "icao_code": "DLI",
+      "icao_code": "VVDL",
+      "iata_code": "DLI",
       "name": "Cảng HK Liên Khương",
       "description":
           "Cảng hàng không Liên Khương với diện tích 337,1ha nằm trên địa bàn huyện Đức Trọng – tỉnh Lâm Đồng, đây là khu vực có mật độ dân số cao và giao thương kinh tế trọng điểm của Tỉnh Lâm Đồng. Cảng hàng không Liên Khương cách trung tâm thành phố Đà Lạt 30 km về phía Nam theo quốc lộ 20; cách thành phố Bảo Lộc 90km và cách thành phố Hồ Chí Minh 270km theo quốc lộ 20; cách thành phố Buôn Ma Thuộc 160km và cách thành phố Nha Trang 200km theo quốc lộ 27.",
@@ -52,8 +52,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DLI.webp"
     },
     {
-      "iata_code": "VVBM",
-      "icao_code": "BMV",
+      "icao_code": "VVBM",
+      "iata_code": "BMV",
       "name": "Cảng HK Buôn Ma Thuột",
       "description":
           "Cảng hàng không Buôn Ma Thuột đóng một vai trò quan trọng trong mạng lưới giao thông tại tỉnh Đăk Lăk và khu vực Tây Nguyên, là một mắt xích quan trọng trong hệ thống phòng thủ bảo vệ biên giới các tỉnh Tây Nguyên của Tổ Quốc",
@@ -62,8 +62,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/BMV.webp"
     },
     {
-      "iata_code": "VVPC",
-      "icao_code": "UIH",
+      "icao_code": "VVPC",
+      "iata_code": "UIH",
       "name": "Cảng HK Phù Cát",
       "description":
           "Cảng hàng không Phù Cát là cửa ngõ giao thông đường không của tỉnh Bình Định, giữ vị trí chiến lược về an ninh quốc phòng vừa đóng vai trò quan trọng trong chiến lược phát triển kinh tế - xã hội của tỉnh Bình Định nói riêng và hợp tác phát triển vùng kinh tế trọng điểm miền Trung của Chính Phủ nói chung.",
@@ -72,8 +72,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/UIH.webp"
     },
     {
-      "iata_code": "VVRG",
-      "icao_code": "VKG",
+      "icao_code": "VVRG",
+      "iata_code": "VKG",
       "name": "Cảng HK Rạch Giá",
       "description":
           "Cảng hàng không Rạch Giá do thực dân Pháp xây dựng từ những năm 1950 khi trở lại chiếm đóng Nam Bộ. Chức năng chính của Cảng hàng không lúc ấy là đảm bảo liên lạc hành chính giữa Sài Gòn và miền Tây Nam bộ. Đầu năm 1960, sân bay Rạch Giá tiếp tục được xây dựng phục vụ cho mục đích quân sự với tổng diện tích là 489.200m2, đường hạ cất cánh dài 1.170m x 30m, đường lăn vuông góc với đường hạ cất cánh dài 85m x 15m, sân đậu rộng 5.500m2, nhà ga có diện tích 60m2.",
@@ -82,8 +82,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VKG.webp"
     },
     {
-      "iata_code": "VVCM",
-      "icao_code": "CAH",
+      "icao_code": "VVCM",
+      "iata_code": "CAH",
       "name": "Cảng HK Cà Mau",
       "description":
           "Nằm ở vị trí trung tâm bán đảo Cà Mau, Cảng hàng không Cà Mau giữ vị trí quan trọng trong sự phát triển kinh tế, văn hóa, xã hội, an ninh quốc phòng của tỉnh Cà Mau và khu vực, góp phần đưa thành phố Cà Mau vươn lên đô thị loại 2, đồng thời thúc đẩy sự phát triển của các tỉnh lân cận.",
@@ -92,8 +92,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/CAH.webp"
     },
     {
-      "iata_code": "VVCS",
-      "icao_code": "VCS",
+      "icao_code": "VVCS",
+      "iata_code": "VCS",
       "name": "Cảng HK Côn Đảo",
       "description":
           "Cảng hàng không Côn Đảo là cảng hàng không địa phương thuộc Tổng công ty Cảng hàng không Việt Nam. Cảng hàng không Côn Đảo có vị trí kinh tế, chính trị, địa lý đặc biệt quan trọng, là cửa ngõ giao thương của Côn Đảo với đất liền, được sử dụng chung cho hoạt động bay của các tàu bay dân dụng và tàu bay quân sự. Cảng hàng không Côn Đảo được xếp loại theo tiêu chuẩn dân dụng cấp 3C và xếp loại cấp 2 theo tiêu chuẩn của quân sự.",
@@ -102,8 +102,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCS.webp"
     },
     {
-      "iata_code": "VVCR",
-      "icao_code": "CXR",
+      "icao_code": "VVCR",
+      "iata_code": "CXR",
       "name": "Cảng HKQT Cam Ranh",
       "description":
           "Sân bay quốc tế Cam Ranh là sân bay dân sự chính phục vụ cho tỉnh Khánh Hòa và các tỉnh Cực Nam Trung Bộ. Đến thời điểm năm 2012, sân bay này đã đạt lượng khách thông qua 1 triệu lượt/năm và 4.858.362 lượt khách vào năm 2016 và 8,5 triệu lượt khách năm 2018. Dự kiến sản lượng khách đạt 10 triệu lượt trong năm 2019. Sân bay có mã IATA_code: CXR (theo tên của thành phố Cam Ranh) và mã ICAO: VVCR",
@@ -112,8 +112,8 @@
       "imageUrl": ""
     },
     {
-      "iata_code": "VVPQ",
-      "icao_code": "PQC",
+      "icao_code": "VVPQ",
+      "iata_code": "PQC",
       "name": "Cảng HKQT Phú Quốc",
       "description":
           "Cảng hàng không quốc tế Phú Quốc là cửa ngõ thông thương của kinh tế quốc tế của đảo ngọc Phú Quốc, tỉnh Kiên Giang và khu vực biên giới biển đảo phía Nam. Do đó Cảng hàng không quốc tế Phú Quốc có mối quan hệ chặt chẽ, tương hỗ với phát triển kinh tế - xã hội, an ninh - quốc phòng của đảo Phú Quốc, tỉnh Kiên Giang, vùng biển bảo phía Nam, đồng bằng sông Cửu Long. Thủ tướng Chính phủ đã phê duyệt xây dựng Phú Quốc với mục tiêu trở thành một trung tâm du lịch, dịch vụ có chất lượng cao, đồng thời là trung tâm giao thương với các vùng trong nước, khu vực và quốc tế. Để đạt được mục tiêu đó, Phú Quốc phải xây dựng và phát triển hạ tầng giao thông đồng bộ, trước hết là sân bay quốc tế",
@@ -122,8 +122,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/PQC.webp"
     },
     {
-      "iata_code": "VVCI",
-      "icao_code": "HPH",
+      "icao_code": "VVCI",
+      "iata_code": "HPH",
       "name": "Cảng HKQT Cát Bi",
       "description":
           "Cảng hàng không quốc tế Cát Bi là cảng hàng không có vị trí quan trọng ở vùng Đông Bắc đồng bằng Bắc bộ, nằm trên địa bàn Quận Hải An - thành phố Hải Phòng; cách trung tâm thành phố 8km về phía Đông Nam, cách Cảng biển Hải Phòng (6Km), khu Du lịch Quốc tế Đồ sơn (25Km), khu Công nghiệp Đình Vũ (8km) và xa hơn một chút là khu Du lịch Cát Bà; khu Du lịch Quốc tế Tuần Châu, Vịnh Hạ Long....",
@@ -132,8 +132,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HPH.webp"
     },
     {
-      "iata_code": "VVVH",
-      "icao_code": "VII",
+      "icao_code": "VVVH",
+      "iata_code": "VII",
       "name": "Cảng HKQT Vinh",
       "description":
           "Cảng hàng không Vinh nằm trong địa giới hành chính thuộc địa phận Thành phố Vinh, Tỉnh Nghệ An. Cảng hàng không Vinh cách trung tâm Thành phố Vinh 8km về phía Bắc; phía Tây giáp xã Nghi Kim, QL 1; phía Đông giáp xã Nghi Ân; phía Nam giáp xã Nghi Phú; phía Bắc giáp xã Nghi Liên.",
@@ -142,8 +142,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VII.webp"
     },
     {
-      "iata_code": "VVCT",
-      "icao_code": "VCA",
+      "icao_code": "VVCT",
+      "iata_code": "VCA",
       "name": "Cảng HKQT Cần Thơ",
       "description":
           "Cảng hàng không Quốc  tế Cần Thơ nằm dọc theo sông Hậu Giang - Phía đông của Cảng hàng không Quốc tế Cần Thơ cách sông Hậu Giang 700m, phía Bắc cách rạch Trà Nóc 500m, phía Tây giáp với rạch Bà Lý. Cảng hàng không Quốc tế Cần Thơ có vị trí rất quan trọng trong sự phát triển kinh tế, văn hóa, xã hội, an ninh quốc phòng cho Cần Thơ và khu vực, thúc đẩy sự phát triển của các tỉnh khu vực đồng bằng Sông Cửu Long.",
@@ -153,8 +153,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCA.webp"
     },
     {
-      "iata_code": "VVDB",
-      "icao_code": "DIN",
+      "icao_code": "VVDB",
+      "iata_code": "DIN",
       "name": "Cảng HKQT Điện Biên",
       "description":
           "Cảng hàng không Điện Biên hiện nay – (Sân bay Mường Thanh trước đây) - vốn là sân bay dã chiến năm 1954 - cứ điểm 206, một căn cứ tiếp vận rất quan trọng nằm trong tập đoàn cứ điểm Điện Biên Phủ của thực dân Pháp năm xưa. Cảng hàng không Điện Biên nằm trên địa bàn phường Thanh Trường  thành phố Điện Biên Phủ - Trung tâm kinh tế, văn hóa, chính trị của tỉnh Điện Biên và miền Tây Bắc của Tổ quốc, là nơi diễn ra trận Điện Biên Phủ lừng lẫy năm châu chấn động địa cầu. Cảng hàng không Điện Biên là cầu nối quan trọng nối liền Thủ đô Hà Nội, các miền trong cả nước và bạn bè quốc tế với Điện Biên; giữ vị trí  xung yếu trong chiến lược phát triển kinh tế, xã hội, quốc phòng và an ninh quốc gia.",
@@ -163,8 +163,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DIN.webp"
     },
     {
-      "iata_code": "VVTX",
-      "icao_code": "THD",
+      "icao_code": "VVTX",
+      "iata_code": "THD",
       "name": "Cảng HK Thọ Xuân",
       "description":
           "Cảng hàng không Thọ Xuân được đưa vào khai thác hàng không dân dụng từ ngày 05/2/2013. Đây là sự kiện đánh dấu bước phát triển và hoàn thiện hệ thống giao thông của Thanh Hóa, góp phần thay đổi vị thế của tỉnh, góp phần thu hút các nhà đầu tư, phát triển kinh tế-xã hội, du lịch, thương mại… tại địa phương. Cảng hàng không Thọ Xuân là cầu nối giao thông hiện đại, phục vụ tốt nhất nhu cầu kết nối thương mại, đầu tư, du lịch và trao đổi văn hóa của nhân dân tỉnh Thanh Hóa nói riêng và khu vực bắc Trung bộ nói chung với TP.HCM, trung tâm kinh tế của cả nước; kết nối các điểm du lịch trên địa bàn tỉnh Thanh Hóa, nhằm thu hút đầu tư cũng như khai thác tiềm năng du lịch phong phú trên địa bàn.",
@@ -173,8 +173,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/THD.webp"
     },
     {
-      "iata_code": "VVDH",
-      "icao_code": "VDH",
+      "icao_code": "VVDH",
+      "iata_code": "VDH",
       "name": "Cảng HK Đồng Hới",
       "description":
           "Cảng hàng có vị trí địa lý, kinh tế, chính trị quan trọng trong hệ thống giao thông của tỉnh Quảng Bình, địa phương với nhiều danh lam thắng cảnh thiên nhiên đặc biệt hấp dẫn khách du lịch. Đây vừa là tiềm năng cần đầu tư khai thác, vừa là một lợi thế rất lớn trong thúc đẩy sự phát triển của Cảng hàng không Đồng Hới. Cảng hàng không Đồng Hới thuộc xã Lộc Ninh, thành phố Đồng Hới, tỉnh Quảng Bình, cách trung tâm thành phố Đồng Hới 6km về phía Bắc, cách quốc lộ 1A 300m về phía Đông cho nên rất thuận tiện cho quá trình lưu trú, lưu thông của hành khách.",
@@ -183,8 +183,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VDH.webp"
     },
     {
-      "iata_code": "VVTH",
-      "icao_code": "TBB",
+      "icao_code": "VVTH",
+      "iata_code": "TBB",
       "name": "Cảng HK Tuy Hòa",
       "description":
           "Cảng hàng không nằm trên địa phận TP.Tuy Hòa, tỉnh Phú Yên cách trung tâm thành phố Tuy Hòa 05 km về hướng Đông Nam. Phía Bắc và phía Tây giáp phường Phú Đông và phường Phú Thạnh thuộc TP.Tuy Hòa; Phía Nam là Trung đoàn Không quân 910 đóng quân để tổ chức bay huấn luyện cho Phi công Quân sự, đồng thời giáp xã Hòa Hiệp Bắc thuộc huyện Đông Hòa; Phía Đông là biển Đông.",
@@ -193,8 +193,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/TBB.webp"
     },
     {
-      "iata_code": "VVCA",
-      "icao_code": "VCL",
+      "icao_code": "VVCA",
+      "iata_code": "VCL",
       "name": "Cảng HK Chu Lai",
       "description":
           "Cảng Hàng không Chu Lai nằm trong Khu kinh tế mở Chu Lai thuộc tỉnh Quảng Nam, giữa hai tỉnh Quảng Nam và Quảng Ngãi, ở vị trí trung độ của đất nước, thuộc vùng phát triển kinh tế trọng điểm miền Trung, nằm trên trục giao thông Bắc - Nam về đường sắt, đường bộ, đường biển và đường hàng không, có quốc lộ 14 nối từ Cảng Đà Nẵng qua các huyện phía Bắc của tỉnh đến biên giới Việt - Lào và các tỉnh Tây Nguyên; trong tương lai gần sẽ nối với hệ thống đường xuyên Á tạo vị trí thuận lợi cho tỉnh về giao lưu kinh tế với bên ngoài. Quảng Nam nằm kẹp giữa thành phố Đà Nẵng - Trung tâm kinh tế lớn của khu vực miền Trung ở phía Bắc và khu công nghiệp Dung Quất, một khu công nghiệp lớn ở phía Nam, lại có Cảng Kỳ Hà, có nhiều mặt bằng đất cát ven biển rộng, gần hệ thống lưới điện quốc gia, gần nguồn nước ngọt, gần trục giao thông đường bộ, đường sắt.",
@@ -203,8 +203,8 @@
       "imageUrl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCL.webp"
     },
     {
-      "iata_code": "VVPK",
-      "icao_code": "PXU",
+      "icao_code": "VVPK",
+      "iata_code": "PXU",
       "name": "Cảng HK Pleiku",
       "description":
           "Cảng hàng không Pleiku hiện là Cảng dùng chung giữa quân sự và dân sự. Cảng hàng không Pleiku đóng vai trò quan trọng trong mạng lưới Cảng hàng không dân dụng trên toàn quốc.",
