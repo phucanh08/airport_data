@@ -2304,7 +2304,7 @@
           "status": "available",
           "multilingual_name": null,
           "multilingual_desc": null,
-          "offlineImgLogo": "685102https://api.inmapz.com/company/1/poi-special/poi-gate.png?v=1715954919"
+          "offlineImgLogo": "https://api.inmapz.com/company/1/poi-special/poi-gate.png?v=1715954919"
         },
         "60510": {
           "id": 60510,

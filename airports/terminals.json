@@ -1,0 +1,26 @@
+[
+    {
+        "function_code": "prc_terminal_insert",
+        "terminalid": 2,
+        "airportid": 66,
+        "name": "HAN - Terminal 2",
+        "description": "Ga quốc tế",
+        "termtype": "E",
+        "createdat": "2024-10-30T02:23:18.250+00:00",
+        "createdby": null,
+        "updatedat": null,
+        "updatedby": null
+    },
+    {
+        "function_code": "prc_terminal_insert",
+        "terminalid": 1,
+        "airportid": 66,
+        "name": "HAN - Terminal 1",
+        "description": "Ga nội địa",
+        "termtype": "I",
+        "createdat": "2024-10-30T02:22:33.491+00:00",
+        "createdby": null,
+        "updatedat": null,
+        "updatedby": null
+    }
+]
