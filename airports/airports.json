@@ -1,5 +1,7 @@
 [
     {
+      "latitude": 16.401666666667,
+      "longitude": 107.70277777778,
       "function_code": "prc_airport_insert",
       "icao_code": "VVPB",
       "iata_code": "HUI",
@@ -11,6 +13,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HUI.webp"
     },
     {
+      "latitude": 21.2187149,
+      "longitude": 105.8041709,
       "function_code": "prc_airport_insert",
       "icao_code": "VVNB",
       "iata_code": "HAN",
@@ -22,6 +26,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HAN.webp"
     },
     {
+      "latitude": 16.0563348,
+      "longitude": 108.2025532,
       "function_code": "prc_airport_insert",
       "icao_code": "VVDN",
       "iata_code": "DAD",
@@ -33,6 +39,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DAD.webp"
     },
     {
+      "latitude": 10.8230989,
+      "longitude": 106.6296638,
       "function_code": "prc_airport_insert",
       "icao_code": "VVTS",
       "iata_code": "SGN",
@@ -45,6 +53,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/SGN.webp"
     },
     {
+      "latitude": 11.5310977,
+      "longitude": 107.8682905,
       "function_code": "prc_airport_insert",
       "icao_code": "VVDL",
       "iata_code": "DLI",
@@ -57,6 +67,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DLI.webp"
     },
     {
+      "latitude": 12.6647139,
+      "longitude": 108.1172229,
       "function_code": "prc_airport_insert",
       "icao_code": "VVBM",
       "iata_code": "BMV",
@@ -68,6 +80,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/BMV.webp"
     },
     {
+      "latitude": 13.9524341,
+      "longitude": 109.0476595,
       "function_code": "prc_airport_insert",
       "icao_code": "VVPC",
       "iata_code": "UIH",
@@ -79,6 +93,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/UIH.webp"
     },
     {
+      "latitude": 9.8249587,
+      "longitude": 105.125895,
       "function_code": "prc_airport_insert",
       "icao_code": "VVRG",
       "iata_code": "VKG",
@@ -90,6 +106,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VKG.webp"
     },
     {
+      "latitude": 9.1759629,
+      "longitude": 105.175697,
       "function_code": "prc_airport_insert",
       "icao_code": "VVCM",
       "iata_code": "CAH",
@@ -101,6 +119,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/CAH.webp"
     },
     {
+      "latitude": 8.7009282,
+      "longitude": 106.611447,
       "function_code": "prc_airport_insert",
       "icao_code": "VVCS",
       "iata_code": "VCS",
@@ -112,6 +132,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCS.webp"
     },
     {
+      "latitude": 12.0070805,
+      "longitude": 109.2168317,
       "function_code": "prc_airport_insert",
       "icao_code": "VVCR",
       "iata_code": "CXR",
@@ -123,6 +145,8 @@
       "imgurl": ""
     },
     {
+      "latitude": 10.1634153,
+      "longitude": 103.9980303,
       "function_code": "prc_airport_insert",
       "icao_code": "VVPQ",
       "iata_code": "PQC",
@@ -134,6 +158,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/PQC.webp"
     },
     {
+      "latitude": 20.84491149999999,
+      "longitude": 106.68808409999997,
       "function_code": "prc_airport_insert",
       "icao_code": "VVCI",
       "iata_code": "HPH",
@@ -145,6 +171,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/HPH.webp"
     },
     {
+      "latitude": 18.6795848,
+      "longitude": 105.6813333,
       "function_code": "prc_airport_insert",
       "icao_code": "VVVH",
       "iata_code": "VII",
@@ -156,6 +184,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VII.webp"
     },
     {
+      "latitude": 10.0804831,
+      "longitude": 105.7121776,
       "function_code": "prc_airport_insert",
       "icao_code": "VVCT",
       "iata_code": "VCA",
@@ -168,6 +198,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCA.webp"
     },
     {
+      "latitude": 21.4017751,
+      "longitude": 103.0067040,
       "function_code": "prc_airport_insert",
       "icao_code": "VVDB",
       "iata_code": "DIN",
@@ -179,6 +211,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/DIN.webp"
     },
     {
+      "latitude": 19.8925296,
+      "longitude": 105.4752455,
       "function_code": "prc_airport_insert",
       "icao_code": "VVTX",
       "iata_code": "THD",
@@ -190,6 +224,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/THD.webp"
     },
     {
+      "latitude": 17.5126105,
+      "longitude": 106.5896049,
       "function_code": "prc_airport_insert",
       "icao_code": "VVDH",
       "iata_code": "VDH",
@@ -201,6 +237,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VDH.webp"
     },
     {
+      "latitude": 13.09546,
+      "longitude": 109.32094,
       "function_code": "prc_airport_insert",
       "icao_code": "VVTH",
       "iata_code": "TBB",
@@ -212,6 +250,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/TBB.webp"
     },
     {
+      "latitude": 15.4144087,
+      "longitude": 108.7038165,
       "function_code": "prc_airport_insert",
       "icao_code": "VVCA",
       "iata_code": "VCL",
@@ -223,6 +263,8 @@
       "imgurl": "https://raw.githubusercontent.com/phucanh08/airport_data/refs/heads/main/airports/images/VCL.webp"
     },
     {
+      "latitude": 13.9718356,
+      "longitude": 108.0150796,
       "function_code": "prc_airport_insert",
       "icao_code": "VVPK",
       "iata_code": "PXU",
